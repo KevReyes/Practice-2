@@ -1,0 +1,1 @@
+The index.html file contains the information title, slogan, image, and text. The style.css file contains the style sheet, which contains the background color, text color, as well as the table positon and color. The Practice 2.js is a Javascript, it contains functions to display text of my name, major, UAT email address, and expected graduation date.
